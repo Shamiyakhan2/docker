@@ -1,0 +1,13 @@
+[
+    {
+        "name": "shamiya",
+        "blood": "A+",
+        "city": "mumbai"
+    },
+    {
+        "name": "ariba",
+        "blood": "A+",
+        "city": "delhi",
+        "quantity_ml": 100
+    }
+]
